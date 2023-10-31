@@ -15,7 +15,7 @@ In this project we are monitoring the air quality using iot sensors. This monito
 
 Components Required:
 
-Arduino Uno
+Arduino Uno 
 16X2 Charater LCD
 ESP8266 Wi-Fi Module
 MQ135 Gas Sensor
