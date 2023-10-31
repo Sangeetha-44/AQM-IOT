@@ -59,3 +59,10 @@ wiper to LCD VO pin (pin 3)
 
 ![image](https://github.com/Sangeetha-44/AQM-IOT/assets/146975490/ebac59e1-ec5f-476c-a54a-d21ce7df4860)
 
+
+**Software and Prerequisites**
+
+Tinkercad.com: Tinkercad is an online platform for creating, simulating, and sharing electronic circuits. It's primarily used for educational and prototyping purposes.
+
+Thingspeak.com: ThingSpeak is an IoT platform that allows you to collect, store, and analyze data from IoT devices. It's commonly used for IoT applications, data visualization, and remote monitoring.
+
