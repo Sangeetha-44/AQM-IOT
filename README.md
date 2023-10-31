@@ -54,3 +54,8 @@ ends to +5V and ground
 
 wiper to LCD VO pin (pin 3)
 
+
+**DIAGRAM:**
+
+![image](https://github.com/Sangeetha-44/AQM-IOT/assets/146975490/ebac59e1-ec5f-476c-a54a-d21ce7df4860)
+
